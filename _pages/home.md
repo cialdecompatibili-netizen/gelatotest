@@ -17,8 +17,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-seo_title: "{title} | Smart Web Agency"
-seo_description: "Web agency a Roma dal 2013: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA. Prima consulenza gratuita, risposta entro 24 ore."
+seo_title: "{title} | Gelateria artigianale al cioccolato"
+seo_description: "Gelateria artigianale specializzata in gelati al cioccolato fondente, al latte e bianco, fatti ogni giorno con cacao selezionato."
 ---
 
 <style>
@@ -76,13 +76,13 @@ html[data-theme="dark"] .prj-home-more a{border-color:rgba(255,255,255,.3)}
 <!-- ===== MARTE END (html) ===== -->
 <canvas id="rete-cv" aria-hidden="true"></canvas>
 
-## Web Agency a Roma dal 2013, al fianco della crescita del tuo business.
+## Gelato al cioccolato, fatto ogni giorno con cacao vero.
 
-Comunicazione, web marketing e sviluppo di piattaforme digitali: aiutiamo imprenditori, start up e grandi aziende a crescere, nel privato come nella Pubblica Amministrazione. Ogni progetto nasce da un'analisi su misura del business e degli obiettivi, combinando creatività e concretezza per ottenere risultati misurabili.
+Prepariamo gelati al cioccolato con cacao selezionato, latte fresco e poco zucchero. Dal fondente intenso al bianco cremoso, ogni gusto si fa in piccoli lotti e si mangia fresco.
 
-Un team unico di professionisti coordina ogni fase, dalla strategia al risultato: siti, e-commerce, campagne, brand identity e applicativi su misura. Rispondiamo entro 24 ore, festivi esclusi, e la prima consulenza è gratuita.
+La gelateria è aperta tutti i giorni dalle 12 alle 23. Per feste e compleanni prepariamo torte gelato e vaschette su prenotazione.
 
-**Vuoi far crescere il tuo business?** Scrivici su WhatsApp o richiedi un preventivo: costruiamo insieme la soluzione giusta per te.
+**Vuoi assaggiare i nostri gelati?** Scrivici o passa in gelateria: ti facciamo provare il gusto del giorno.
 
 </div>
 

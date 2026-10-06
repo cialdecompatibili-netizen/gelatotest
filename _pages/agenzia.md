@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agenzia
+title: Gelateria
 nav: true
 nav_order: 0.4
 dropdown: true
